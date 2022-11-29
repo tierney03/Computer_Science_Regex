@@ -1,6 +1,6 @@
-# Title (replace with your title)
+#REGEX Tutorial for Matching a URL
 
-Introductory paragraph (replace this with your text)
+REGEX, short for regular expressions, is a sequence of characters that define a search pattern. Its primary use is in pattern matching with strings.
 
 ## Summary
 
